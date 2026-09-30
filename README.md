@@ -1,5 +1,11 @@
 # DebtPilot
+## Live Demo
 
+[Launch DebtPilot](https://jaswin-27-debtpilot-app-wxmhvm.streamlit.app/)
+
+## GitHub Repository
+
+[View Source Code](https://github.com/Jaswin-27/debtpilot.git)
 **A safety-first debt planning system for people managing multiple active debts.**
 
 DebtPilot helps a user understand how much money is safely available for debt repayment, which debts should be prioritized, and when a normal repayment plan is no longer financially feasible.
